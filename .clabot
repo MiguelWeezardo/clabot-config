@@ -1,5 +1,5 @@
 {
   "contributors": "https://api.github.com/repos/MiguelWeezardo/cla/contents/contributors",
-  "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our [Contributor License Agreement](https://docs.google.com/forms/d/e/1FAIpQLSeDL8LSF6ZKBdSQGm0nIEcExMi6fb45RMD4f2gbzUAq0V6Y4Q/viewform?entry.1510983741={{usersWithoutCLA}}), and we don't seem to have you on file. In order for us to review and merge your code, please fill out and submit the linked CLA form. For more information, see https://github.com/MiguelWeezardo/cla.",
+  "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our [Contributor License Agreement](https://docs.google.com/forms/d/e/1FAIpQLSeDL8LSF6ZKBdSQGm0nIEcExMi6fb45RMD4f2gbzUAq0V6Y4Q/viewform?entry.1510983741={{usersWithoutCLAURLEncoded}}), and we don't seem to have you on file. In order for us to review and merge your code, please fill out and submit the linked CLA form. For more information, see https://github.com/MiguelWeezardo/cla.",
   "label": "cla-signed"
 }
